@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/robo/static/css/main.f2f4df08.chunk.css",
+    "main.js": "/robo/static/js/main.e8ee5356.chunk.js",
+    "main.js.map": "/robo/static/js/main.e8ee5356.chunk.js.map",
+    "runtime-main.js": "/robo/static/js/runtime-main.79127010.js",
+    "runtime-main.js.map": "/robo/static/js/runtime-main.79127010.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/robo/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.11666495.chunk.js": "/robo/static/js/2.11666495.chunk.js",
+    "static/js/2.11666495.chunk.js.map": "/robo/static/js/2.11666495.chunk.js.map",
+    "index.html": "/robo/index.html",
+    "precache-manifest.27ca4150578a1bb5233a9d8f34af4d92.js": "/robo/precache-manifest.27ca4150578a1bb5233a9d8f34af4d92.js",
+    "service-worker.js": "/robo/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/robo/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.f2f4df08.chunk.css.map": "/robo/static/css/main.f2f4df08.chunk.css.map",
+    "static/js/2.11666495.chunk.js.LICENSE.txt": "/robo/static/js/2.11666495.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/robo/static/media/cool-background.157091a6.png",
+    "static/media/github.png": "/robo/static/media/github.5e033a36.png",
+    "static/media/instagram.png": "/robo/static/media/instagram.4a8c2347.png",
+    "static/media/logo.png": "/robo/static/media/logo.2b386085.png",
+    "static/media/logo2.png": "/robo/static/media/logo2.b86f9550.png",
+    "static/media/profile.jpg": "/robo/static/media/profile.a5bf9383.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79127010.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.11666495.chunk.js",
+    "static/css/main.f2f4df08.chunk.css",
+    "static/js/main.e8ee5356.chunk.js"
+  ]
+}
