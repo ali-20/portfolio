@@ -1,0 +1,62 @@
+.project{
+
+	width: auto;
+	height: auto;
+	margin: 2em;
+	display: inline-block;
+	
+
+}
+
+.project img{
+
+	width: 300px;
+	height: 300px;
+	float: right;
+	padding-left: 10em;
+
+
+}
+
+.project button{
+
+	padding: 1em;
+	margin-top: 7em;
+	align-self: center;
+	border-radius: 20px;
+
+}
+
+.but1{
+
+	margin-left: 4em;
+	margin-right: 1em;
+}
+
+.but1 a{
+
+	text-decoration: none;
+	color: black;
+}
+
+.but2 a{
+
+	text-decoration: none;
+	color: black;
+}
+
+@media only screen and (max-width: 850px)
+{
+	.but1{
+
+		float: right;
+		margin-left: 1em;
+		display: list-item;
+	}
+
+	.project img{
+
+		width: auto;
+		height: auto;
+	}
+}
