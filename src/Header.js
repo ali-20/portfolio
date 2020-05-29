@@ -5,6 +5,7 @@ import logo from './logo.png';
 import logo2 from './logo2.png';
 import ProCard from './Pro_card';
 import Footer from './Footer';
+import mlogo from './mlogo.png';
 
 
 function Header () {
@@ -27,7 +28,7 @@ function Header () {
 			
 			<p className='tagline'>Here are few of my projects to checkout!</p>
 			<ProCard logo={logo} live='https://ali-20.github.io' source='https://github.com/ali-20/ali-20.github.io'/>
-			<ProCard logo={logo2}/>
+			<ProCard logo={mlogo} source='https://archive-meauseum.netlify.app/'/>
 			<Footer/>
 
 
