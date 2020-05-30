@@ -28,7 +28,7 @@ function Header () {
 			
 			<p className='tagline'>Here are few of my projects to checkout!</p>
 			<ProCard logo={logo} live='https://ali-20.github.io' source='https://github.com/ali-20/ali-20.github.io'/>
-			<ProCard logo={mlogo} source='https://archive-meauseum.netlify.app/'/>
+			<ProCard logo={mlogo} live='https://archive-meauseum.netlify.app/' source='https://github.com/ali-20/Meuseum'/>
 			<Footer/>
 
 
